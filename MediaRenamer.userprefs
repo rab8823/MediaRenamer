@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MediaRenamer\rules\BaseRenameRule.cs">
+    <Files>
+      <File FileName="MediaRenamer\Program.cs" Line="1" Column="1" />
+      <File FileName="MediaRenamer\rules\IRenameRule.cs" Line="1" Column="1" />
+      <File FileName="MediaRenamer\rules\TitleCaseRule.cs" Line="24" Column="25" />
+      <File FileName="MediaRenamer\rules\BaseRenameRule.cs" Line="60" Column="27" />
+      <File FileName="MediaRenamer.Tests\Properties\AssemblyInfo.cs" Line="27" Column="1" />
+      <File FileName="MediaRenamer\Properties\AssemblyInfo.cs" Line="27" Column="85" />
+      <File FileName="MediaRenamer.Tests\Test.cs" Line="11" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MediaRenamer" expanded="True">
+            <Node name="Properties" expanded="True" />
+            <Node name="rules" expanded="True">
+              <Node name="BaseRenameRule.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="MediaRenamer.Tests" expanded="True">
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
